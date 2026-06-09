@@ -15,7 +15,7 @@ public class Arraylist1 {
 		
 	        ArrayList<String> names = new ArrayList<>();
 
-	        names.add("Kavita");
+	        names.add("Rama");
 	        names.add("Savita");
 	        names.add("Kavita"); // duplicates allowed
 
